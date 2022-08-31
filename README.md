@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my skills as future game designe.
-- 🌱 I’m currently learning game how to poper use game design effectively and how I can use what I learn in the work field.
+- 🔭 I’m currently working on my skills as future game designer.
+- 🌱 I’m currently learning game how to properly use game design mechanics effectively and how I can use what I learn in the work field.
 - 👯 I’m looking to collaborate on anyone that is willing to teach me something new.
 - 🤔 I’m looking for help with learning how all of this works when building a game.
 - 😄 Pronouns: He/Him
@@ -9,3 +9,4 @@
 
 
 ![Just one of the many games I like to play!](minecraft.jpg)
+Will be fixed later^^
