@@ -6,6 +6,3 @@
 - 🤔 I’m looking for help with learning how all of this works when building a game.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a gamer and I like to meet new people if given the proper chance
-
-
-![Just one of the many games I like to play!](minecraft.jpg)
